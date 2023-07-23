@@ -17,5 +17,5 @@ Coded in *VS Code* using Python
 - Blocks added
 - Chain verified
 
-![PyChain Ledger Application](/Images/PyChain_Ledger_Application)
-![Terminal Output](/Images/Terminal_Output)
+![PyChain Ledger Application](/Images/PyChain_Ledger_Application.png "PyChain Ledger Application")
+![Terminal Output](/Images/Terminal_Output.png "Terminal Output")
